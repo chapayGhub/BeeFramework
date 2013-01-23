@@ -6,6 +6,6 @@ Remove this fork repo [https://github.com/BeeFramework/BeeFramework](https://git
 
 ### 2. More details
 
-Please visit [BeeFramework@gavinkwoe](https://github.com/gavinkwoe/BeeFramework)     (https://github.com/gavinkwoe/BeeFramework) for more details and the lastest version code.
+Please visit [https://github.com/gavinkwoe/BeeFramework](https://github.com/gavinkwoe/BeeFramework)      for more details and the lastest version code.
 
 
