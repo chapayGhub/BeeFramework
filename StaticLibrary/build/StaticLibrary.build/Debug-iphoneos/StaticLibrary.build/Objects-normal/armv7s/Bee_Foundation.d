@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Foundation.mm \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Foundation.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Bee_Precompile.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Log.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Performance.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Singleton.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Runtime.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSObject+BeeProperty.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Sandbox.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_SystemInfo.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Thread.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSArray+BeeExtension.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSData+BeeExtension.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSDate+BeeExtension.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSDictionary+BeeExtension.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSNumber+BeeExtension.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSObject+BeeNotification.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSObject+BeeTicker.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSObject+BeeTypeConversion.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSString+BeeExtension.h

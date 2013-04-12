@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Bee_ViewLayout.m \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Bee_ViewLayout.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Bee_Precompile.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Bee_UICollection.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Extension/NSObject+BeeProperty.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Bee_UILayout.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/Core/Foundation/Bee_Singleton.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Bee_UIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Bee_UIQuery.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Bee_UITemplate.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/BeeUIQuery+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/BeeUIStyle+BeeUIQuery.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIView+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/View/Extension/UIColor+BeeExtension.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/View/Extension/UIFont+BeeExtension.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIButton+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UILabel+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIImageView+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UITextView+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UITextField+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIViewController+BeeUIStyle.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIView+BeeUIQuery.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIViewController+BeeUIQuery.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIView+BeeUILayout.h \
+  /Users/gavinkwoe/Desktop/BeeFramework_repos/framework/StaticLibrary/../BeeFramework/MVC/ViewLayout/Extension/UIViewController+BeeUILayout.h
